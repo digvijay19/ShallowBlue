@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/digvijay19/ShallowBlue/issues"
   },
-  "homepage": "https://github.com/digvijay19/ShallowBlue#readme"
+  "homepage": "https://github.com/digvijay19/ShallowBlue#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
